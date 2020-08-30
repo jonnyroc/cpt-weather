@@ -24,8 +24,6 @@ class HourlyTemp extends Component {
           })}
         </span>
       );
-
-
     } else {
       return (
         <div >
